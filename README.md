@@ -90,7 +90,7 @@ Test coverage includes:
 ## 🎯 Current Learning
 
 I'm currently strengthening my automation testing skills with:
-
+**Selenium+Java**
 **Playwright + TypeScript**
 
 My goal is to combine strong manual testing fundamentals with practical test automation skills.
