@@ -42,6 +42,8 @@ Currently, I'm expanding my skills in **Playwright and TypeScript** to move towa
 - CSS — Basic
 - JavaScript — Intermediate
 - TypeScript — Intermediate
+- Selenium -Intermediate
+- Jave -Core Concepts
 
 ---
 
